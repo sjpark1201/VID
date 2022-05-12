@@ -1,0 +1,36 @@
+Symptoms,Influenza (flu) ,hepatitis a,hepatitis b or c,malaria,chicken pox,dengue fever,rhinovirus (common cold),viral pneumonia,shingles,covid-19
+mild_fever,1,1,1,0,0,0,1,0,1,1
+high_fever,0,0,0,1,1,1,0,1,0,0
+cough,1,0,0,0,0,0,1,1,0,1
+sneezing,1,0,0,0,0,0,1,0,0,1
+runny_or_stuffed_nose,1,0,0,0,0,0,1,1,0,1
+shortness_of_breath,0,0,0,0,0,0,0,0,0,1
+mucus,1,0,0,0,0,0,1,1,0,1
+sore_throat,1,0,0,0,0,0,1,0,0,1
+headache ,1,0,0,1,1,1,1,1,1,1
+abdominal_pain,0,1,1,0,0,1,0,0,0,0
+fatigue,1,0,1,1,1,1,1,1,1,1
+muscle_or_body_aches,1,1,1,1,0,1,1,0,1,1
+chest_pain,0,0,0,0,0,0,1,1,0,1
+joint_pain,0,1,1,0,0,1,0,0,0,0
+chills,1,0,0,1,0,0,0,1,0,1
+malaise_(feeling_unwell),1,1,1,1,0,1,0,1,0,1
+nausea,1,1,1,1,0,1,0,1,0,0
+vomiting,1,1,1,1,0,1,0,1,0,0
+diarrhea,0,1,1,1,0,0,0,0,0,0
+loss_of_appetite,0,1,1,0,1,0,1,0,0,1
+dehydration,1,0,0,1,0,1,0,0,0,0
+sweating,0,0,0,1,0,0,1,0,0,1
+red_rash,0,0,0,0,1,1,0,0,1,0
+shingles_rash,0,0,0,0,0,0,0,0,1,0
+papules_(red_spots),0,0,0,0,1,0,0,0,0,0
+fluid_filled_blisters,0,0,0,0,1,0,0,0,0,0
+itching,0,0,0,0,1,0,1,0,0,1
+yellowish_skin,0,1,1,0,0,0,0,0,0,0
+yellowish_eyes,0,1,1,0,0,0,0,0,0,0
+red_eyes,0,0,0,0,0,0,0,0,0,0
+dark_urine,0,1,1,0,0,0,0,0,0,0
+mouth_ulcers,0,0,0,0,0,0,0,1,0,0
+swollen_lymph_nodes,0,0,0,0,0,0,1,0,0,1
+receiving_blood_transfusion,0,0,1,0,0,0,0,0,0,0
+receiving_unsterile_injections,0,0,1,0,0,0,0,0,0,0
