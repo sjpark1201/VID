@@ -1,6 +1,6 @@
 # Viral Illness Detector (VID)
 
-CLPS0950 Project II by Sean Park, Minchae Kim, and Wonjin Ko
+CLPS0950 Project II by Sean Park, Wonjin Ko, and Minchae Kim
 
 This project involves utilizing both Python and PsychoPy to create a Python-based Viral Illness Detector (VID). VID diagnoses the most likely viral illness a patient may possess based on a questionnaire that evaluate a patient's symptoms. This project involves the following
 
