@@ -4,7 +4,7 @@ high_fever,0,0,0,1,1,1,0,1,0,0
 cough,1,0,0,0,0,0,1,1,0,1
 sneezing,1,0,0,0,0,0,1,0,0,1
 runny_or_stuffed_nose,1,0,0,0,0,0,1,1,0,1
-shortness_of_breath,0,0,0,0,0,0,0,0,0,1
+shortness_of_breath,0,0,0,0,0,0,0,1,0,1
 mucus,1,0,0,0,0,0,1,1,0,1
 sore_throat,1,0,0,0,0,0,1,0,0,1
 headache ,1,0,0,1,1,1,1,1,1,1
