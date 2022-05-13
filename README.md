@@ -1,4 +1,4 @@
-# VID
+# Viral Illness Detector (VID)
 
 CLPS0950 Project II by Sean Park, Minchae Kim, and Wonjin Ko
 
