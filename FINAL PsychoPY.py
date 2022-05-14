@@ -106,12 +106,11 @@ for i in range(len(q_list)):
         for letter in (keyboardKeys):
             if event.getKeys([letter]):
                 answer = letter
+                complete_answer = True
         if event.getKeys(['backspace']):
             answer = answer[:-1]
         if event.getKeys([quitKeys[0]]):
             core.quit()
-        if event.getKeys([ansKeys[0]]):
-            complete_answer = True
     symptom_list.append(answer)
 
 ##### SECTION 2 ######
@@ -146,12 +145,11 @@ for i in range(len(q_list)):
         for letter in (keyboardKeys):
             if event.getKeys([letter]):
                 answer = letter
+                complete_answer = True
         if event.getKeys(['backspace']):
             answer = answer[:-1]
         if event.getKeys([quitKeys[0]]):
             core.quit()
-        if event.getKeys([ansKeys[0]]):
-            complete_answer = True
     symptom_list.append(answer)
 
 ##### SECTION III #####
@@ -188,12 +186,11 @@ for i in range(len(q_list)):
         for letter in (keyboardKeys):
             if event.getKeys([letter]):
                 answer = letter
+                complete_answer = True
         if event.getKeys(['backspace']):
             answer = answer[:-1]
         if event.getKeys([quitKeys[0]]):
             core.quit()
-        if event.getKeys([ansKeys[0]]):
-            complete_answer = True
     symptom_list.append(answer)
 
 #Directions 2
@@ -216,12 +213,11 @@ for i in range(len(q_list)):
         for letter in (keyboardKeys):
             if event.getKeys([letter]):
                 answer = letter
+                complete_answer = True
         if event.getKeys(['backspace']):
             answer = answer[:-1]
         if event.getKeys([quitKeys[0]]):
             core.quit()
-        if event.getKeys([ansKeys[0]]):
-            complete_answer = True
     symptom_list.append(answer)
 
 #Directions 3 
@@ -244,12 +240,11 @@ for i in range(len(q_list)):
         for letter in (keyboardKeys):
             if event.getKeys([letter]):
                 answer = letter
+                complete_answer = True
         if event.getKeys(['backspace']):
             answer = answer[:-1]
         if event.getKeys([quitKeys[0]]):
             core.quit()
-        if event.getKeys([ansKeys[0]]):
-            complete_answer = True
     symptom_list.append(answer)
 
 #code that transforms all 'y' values to 1 and 'n' values to 0, which will be processed later
@@ -259,6 +254,7 @@ for i in range(len(symptom_list)):
     elif symptom_list[i] == 'n':
         symptom_list[i] = 0
 
+print(symptom_list)
 
 End.draw()
 win.flip()
