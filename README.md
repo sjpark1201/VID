@@ -10,7 +10,7 @@ This project involves utilizing both Python and PsychoPy to create a Python-base
      - using a set of conditional statements to assign, check, and diagnose a specific Viral Disease based on user symptoms
      - learning PsychoPy and implementing it into the program to create a user interactive interface 
      
-Our project involves many concepts that we learned not only solely from Python but MATLAB. 
+Our project involves many concepts that we learned not only solely from Python but MATLAB. Please download VID_symptom_display_official.py and VID_psychopy.py to run the program. Run the program from VID_symptom_display_official.py.
 
 The project as a whole came together in the end, and we hope you enjoy! Below is a recording of what our project looks like.
 
