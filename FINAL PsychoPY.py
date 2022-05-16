@@ -81,7 +81,7 @@ while not complete_answer:
         General1.draw()
 #recieves user input and stores into variable called body_temperature
 body_temperature = answer
-
+print(body_temperature)
 #presents general 1
 win.flip()
 event.waitKeys()
