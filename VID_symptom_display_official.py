@@ -33,7 +33,7 @@ import random as r
 
 symptoms = []
 
-from VID import body_temperature # references VID.py which consists of psychopy user interface code
+from VID_psychopy import body_temperature # references VID.py which consists of psychopy user interface code
 
 if body_temperature < 99.5:
   symptoms = [0,0]
@@ -46,7 +46,7 @@ if body_temperature > 102.4:
 
 # ERASE LATER - Creates a random set of 1s and 0s as "test symptoms" for now
 
-from VID import symptom_list
+from VID_psychopy import symptom_list
 
 symptoms.extend(symptom_list)
 
