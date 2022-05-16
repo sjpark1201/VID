@@ -12,4 +12,8 @@ This project involves utilizing both Python and PsychoPy to create a Python-base
      
 Our project involves many concepts that we learned not only solely from Python but MATLAB. 
 
-The project as a whole came together in the end, and we hope you enjoy!
+The project as a whole came together in the end, and we hope you enjoy! Below is a recording of what our project looks like.
+
+https://user-images.githubusercontent.com/101481287/168642575-bddc482d-0026-4068-ba3f-5fba07acc6ba.mp4
+
+
